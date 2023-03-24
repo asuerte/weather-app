@@ -1,4 +1,6 @@
-# default
+# Weather-App
+
+Weather-App project was developed to show the current weather in a particular city. API used to pull Weather data from openweathermap.org
 
 ## Project setup
 
